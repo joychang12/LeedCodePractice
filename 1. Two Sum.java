@@ -3,6 +3,7 @@ class Solution {
 
 		int[] result = new int[2];
 
+        // 透過兩層迴圈進行加總至總和為target
 		for(int i =0;i < nums.length;i++) {
 			for(int j = i+1;j<nums.length;j++) {
 				if(nums[i] + nums[j] == target) {
