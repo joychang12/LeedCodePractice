@@ -11,12 +11,8 @@
             "id": "c5cc9c6aa731bdf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.Two sum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Two sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Two sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.Two sum.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,7 +138,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "c5cc9c6aa731bdf7",
+  "active": "45d6b71362e9fd7e",
   "lastOpenFiles": [
     "README.md",
     "1.Two sum.md"
